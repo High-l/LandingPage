@@ -1,0 +1,138 @@
+body {
+	margin: 0;
+	background-color: #5f749c;
+}
+a {
+	margin-right: 8px;
+	text-decoration: none;
+}
+.logo {
+	height: 110px;
+	margin-top: 20px;
+	width: 100%;
+}
+.menu {
+	background-color: #313b50;
+	margin-top: 30px;
+	width: 100%;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.menuint {
+	height: 100%;
+	width: 80%;
+	background-color: #313b50;
+}
+.menuopcao {
+	color: #fff;
+	float: left;
+	height: 100%;
+	width: 100px;
+	text-align: center;
+}
+.menuopcao, .menuopcao2 p2 {
+	font-family: 'Arimo', sans-serif;
+	color: #fff;
+	line-height: 50px;
+	font-size: 25px;
+	padding-left: 5px;
+}
+.menuopcao2 {
+	float: left;
+	height: 100%;
+	width: 180px;
+	text-align: center;
+}
+.menuopcao:hover, .menuopcao2:hover {
+	background-color: #6a7791;
+	cursor: pointer;
+}
+
+.o-projeto-titulo {
+	font-family: 'Arimo', sans-serif;
+	color: #fff;
+	height: 40px;
+	text-align: center;
+	width: 100%;
+	background-color: #313b50;
+}
+.o-projeto-texto p {
+	line-height: 35px;
+	color: #fff;
+	height: 200px;
+	width: 50%;
+	float: left;
+	margin-top: 10px;
+	font-size: 23px;
+	margin-left: 20px;
+}
+.o-projeto-foto {
+	margin-right: 10px;
+	margin-top: 10px;
+	float: right;
+}
+.o-projeto-int {
+	width: 100%;
+	height: 10px;
+}
+.por-que-titulo {
+	font-family: 'Arimo', sans-serif;
+	color: #fff;
+	text-align: center;
+	margin-top: 320px;
+	height: 40px;
+	background-color: #313b50;
+	margin-bottom: 10px;
+}
+.por-que-texto {
+	line-height: 35px;
+	color: #fff;
+	height: 200px;
+	width: 50%;
+	float: left;
+	margin-top: 10px;
+	font-size: 23px;
+	margin-left: 20px;
+	margin-right: 3px;
+}
+.por-que-foto {
+	height: 300px;
+	width: 600px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 10px;
+}
+.por-que-int {
+	height: 350px;
+}
+.pra-quem-titulo {
+	font-family: 'Arimo', sans-serif;
+	color: #fff;
+	text-align: center;
+	width: 100%;
+	height: 40px;
+	background-color: #313b50;
+}
+.pra-quem-texto {
+	line-height: 35px;
+	color: #fff;
+	height: 200px;
+	width: 50%;
+	float: left;
+	margin-top: 10px;
+	font-size: 23px;
+	margin-left: 20px;
+	margin-right: 3px;
+}
+.pra-quem-foto {
+	height: 300px;
+	width: 600px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 10px;
+}
+
+
+
